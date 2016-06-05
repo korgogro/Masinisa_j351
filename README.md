@@ -1,3 +1,2 @@
 # Masinisa_j351
-j351 deploy
-readme
+Multilingual, responsive, joomla 3.5.1 deploy
