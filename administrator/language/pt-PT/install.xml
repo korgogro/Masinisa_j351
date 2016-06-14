@@ -2,8 +2,8 @@
 <extension version="3.5" client="administrator" type="language" method="upgrade">
 	<name>Português (pt-PT)</name>
 	<tag>pt-PT</tag>
-	<version>3.5.1.1</version>
-	<creationDate>2016-04-06</creationDate>
+	<version>3.5.1.4</version>
+	<creationDate>2016-06-09</creationDate>
 	<author>Comunidade JoomlaPT! Portugal</author>
 	<authorEmail>geral@joomlapt.com</authorEmail>
 	<authorUrl>www.joomlapt.com</authorUrl>
@@ -161,6 +161,12 @@
 		<filename>pt-PT.plg_finder_tags.sys.ini</filename>
 		<filename>pt-PT.plg_finder_weblinks.ini</filename>
 		<filename>pt-PT.plg_finder_weblinks.sys.ini</filename>
+		<filename>pt-PT.plg_installer_folderinstaller.ini</filename>
+		<filename>pt-PT.plg_installer_folderinstaller.sys.ini</filename>
+		<filename>pt-PT.plg_installer_packageinstaller.ini</filename>
+		<filename>pt-PT.plg_installer_packageinstaller.sys.ini</filename>
+		<filename>pt-PT.plg_installer_urlinstaller.ini</filename>
+		<filename>pt-PT.plg_installer_urlinstaller.sys.ini</filename>
 		<filename>pt-PT.plg_installer_webinstaller.ini</filename>
 		<filename>pt-PT.plg_installer_webinstaller.sys.ini</filename>
 		<filename>pt-PT.plg_quickicon_extensionupdate.ini</filename>

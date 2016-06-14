@@ -2,8 +2,8 @@
 <extension version="3.5" client="site" type="language" method="upgrade">
 	<name>Português (pt-PT)</name>
 	<tag>pt-PT</tag>
-	<version>3.5.1.1</version>
-	<creationDate>2016-04-06</creationDate>
+	<version>3.5.1.4</version>
+	<creationDate>2016-06-09</creationDate>
 	<author>Comunidade JoomlaPT! Portugal</author>
 	<authorEmail>geral@joomlapt.com</authorEmail>
 	<authorUrl>www.joomlapt.com</authorUrl>
